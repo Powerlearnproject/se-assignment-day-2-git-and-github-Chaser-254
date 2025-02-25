@@ -90,7 +90,6 @@ Key features includes:
 - Labels and Milstones are used to categorize issues based on priority.
 - Project Boards are used to organzize tasks
 
-
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 
 Common challenges includes the following:
